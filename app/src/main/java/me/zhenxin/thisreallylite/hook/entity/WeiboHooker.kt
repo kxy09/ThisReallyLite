@@ -184,6 +184,7 @@ object WeiboHooker : YukiBaseHooker() {
             }
         }
 
+        //去除强制暗黑模式     
         //隐藏首页右下角加号
         "com.weico.international.ui.maintab.MainTabFragment".hook {
             injectMember {

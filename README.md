@@ -4,14 +4,15 @@
 
 </div>
 
-### 修改自 https://github.com/RealHeart/ThisReallyLite
+### 修改自 https://github.com/RealHeart/ThisReallyLite & https://github.com/wangyuan0217/ThisReallyLite
+
  
 ## 简介
 
 微博轻享版/极速版(原微博国际版)   
 * 去开屏广告
 * 去时间线广告
-* 强制暗黑模式
+
 
 
 ## 开源协议
